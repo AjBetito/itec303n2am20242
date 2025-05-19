@@ -1,0 +1,82 @@
+{
+   "checksum": "22b81d65e9262e24e18213868fcda223",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13384361492427302",
+            "date_last_used": "13390935610702590",
+            "guid": "bf306c6d-f0a0-4be8-baba-5620bcefa835",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/u/0/",
+            "visit_count": 11
+         }, {
+            "date_added": "13384361511301316",
+            "date_last_used": "13391751543328016",
+            "guid": "1a87e498-525c-4af2-86dd-033fede8de7f",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?hl=en",
+            "visit_count": 18
+         }, {
+            "date_added": "13384361528689994",
+            "date_last_used": "13392056063347607",
+            "guid": "8ee2b68f-d66a-456b-b2e8-23e8172b74c0",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/home",
+            "visit_count": 27
+         } ],
+         "date_added": "13392109720526057",
+         "date_last_used": "0",
+         "date_modified": "13384361528689994",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13392109720526071",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13392109720526073",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCBMsCOSWAQAAEgAqGCsvZkNhU1FXdkh2OFpaUlNYTzExdkE9PUgDoAYHEq0BCAgSqAEKHGo1dVBodldIZUFRVTIzZ2tpZjI0U2ZXb0NRMD0SJDhlZTJiNjhmLWQ2NmEtNDU2Yi1iMmU4LTIzZTgxNzJiNzRjMBgAIAAoADCS2KCg7jI4mYady9EyQJmGncvRMkocSUUyWEk0NXVzQUtkaituU0dNdmhsdTZnZklzPVofIh3bWDkxRkFiMktUcGE5cVJRcGROTDR5Z3RZZUpRPWX6kd7bwj4CYAUSrQEIBxKoAQocYWtnSEpXSlo5NERBbWNaK0Y0WHl5S0t5M2hzPRIkMWE4N2U0OTgtNTI1Yy00YWYyLTg2ZGQtMDMzZmVkZThkZTdmGAAgACgAMPWkho/tMjiq/ZvL0TJAqv2by9EyShxVb0NWMVVXdGQwbmgvSUM2SXhuL053N0tkMEk9Wh8iHbdZTk45a2VmbkVxd3ZFYWU2YzhQQ2JEKzFMV2c9ZZs9hbbCPgJgBRKsAQgGEqcBChxZQ3NxRTJmK0dBVkN1RGJhUlM2S1BsRzNZLzA9EiRiZjMwNmM2ZC1mMGEwLTRiZTgtYmFiYS01NjIwYmNlZmE4MzUYACAAKAAw8Ybt0uwyOM3qmsvRMkDN6prL0TJKHGhCN2hraGVvMndHYmgvL09QWFRibktrejBnMD1aHiIcb2lxSXpGUENvUVZKb1ptRjV3YkNhWU1USldjPWUER1j5wj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZTdkYmRhODMtNzBmZi01ZGViLWJkMGYtYzk1ZjM2YmY3NGQ2GAAgACgAMIzA/7PTMTjzx/+z0zFA88f/s9MxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDk3ZDE3MDQ4LTMzNzctNWE4ZS04OTk3LTI1Yzk1YzNhN2IyYRgAIAAoADCLwP+z0zE41Mf/s9MxQNTH/7PTMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ5ODU0ZTkwNS1iZDExLTUwYTktOTZlOS1lZTUzOWIxN2Q1MWUYACAAKAAwkcD/s9MxOLnI/7PTMUC5yP+z0zFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
